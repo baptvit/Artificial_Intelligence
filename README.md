@@ -1,4 +1,4 @@
-# Learn_Data_Science
+# Learning Data Science
 
 #### Course base
 
@@ -64,7 +64,7 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 ## Week 4 Kaggle Project #3
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
 
-## Books and Sources 
+### Books and Sources 
 
 * [Python Data Science Handbook](https://github.com/helpthx/PythonDataScienceHandbook)
 
