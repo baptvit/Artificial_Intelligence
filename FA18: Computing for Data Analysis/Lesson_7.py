@@ -64,3 +64,22 @@ Exercise 2 (get_normalized_words_test: 1 point). Implement the following functio
 (i.e., a str object). It should return a list of the words in s, after normalization per the definition of normalize_string(). 
 (That is, the input s may not be normalized yet.)
 '''
+
+def get_normalized_words (s):
+    assert type (s) is str
+    s = s.split()
+    s = list(s)
+    return s
+
+# Demo:
+print ("First five words:\n{}".format (get_normalized_words (latin_text)[:5]))
+
+'''
+Exercise 3 (make_itemsets_test: 2 points). Implement a function, make_itemsets(words). The input, words, is a list of strings. 
+Your function should convert the characters of each string into an itemset and then return the list of all itemsets. 
+These output itemsets should appear in the same order as their corresponding words in the input.
+'''
+
+def make_itemsets(words):
+    return [set(w) for w in words]
+
