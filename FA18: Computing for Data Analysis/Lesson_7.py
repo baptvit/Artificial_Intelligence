@@ -58,3 +58,9 @@ def normalize_string(s):
 
 # Demo:
 print(latin_text[:100], "...\n=>", normalize_string(latin_text), "...")
+
+'''
+Exercise 2 (get_normalized_words_test: 1 point). Implement the following function, get_normalized_words(s). It takes as input a string s 
+(i.e., a str object). It should return a list of the words in s, after normalization per the definition of normalize_string(). 
+(That is, the input s may not be normalized yet.)
+'''
