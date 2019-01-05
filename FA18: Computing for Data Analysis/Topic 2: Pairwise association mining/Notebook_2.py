@@ -37,6 +37,84 @@ reiciendis voluptatibus maiores alias consequatur
 aut perferendis doloribus asperiores repellat.
 """
 
+print("First 100 characters:\n  {} ...".format(latin_text[:100]))
+
+'''
+Exercise 1 (normalize_string_test: 2 points). 
+Complete the following function, normalize_string(s). The input s is a string (str object). The function should return a new string with 
+(a) all characters converted to lowercase and 
+(b) all non-alphabetic, non-whitespace characters removed.
+'''
+
+def normalize_string(s):
+    assert type(s) is str
+    s = s.replace(',' , '')
+    s = s.replace('.', '')
+    s = s.replace('[', '')
+    s = s.replace(']', '')
+    s = s.replace('?', '')
+    s = s.lower()
+    return s
+
+# Demo:
+print(latin_text[:100], "...\n=>", normalize_string(latin_text), "...")
+
+'''
+Exercise 2 (get_normalized_words_test: 1 point). Implement the following function, get_normalized_words(s). It takes as input a string s 
+(i.e., a str object). It should return a list of the words in s, after normalization per the definition of normalize_string(). 
+(That is, the input s may not be normalized yet.)
+'''
+
+def get_normalized_words (s):
+    assert type (s) is str
+    s = s.split()
+    s = list(s)
+    return s
+
+# Demo:
+print ("First five words:\n{}".format (get_normalized_words (latin_text)[:5]))
+
+'''
+Exercise 3 (make_itemsets_test: 2 points). Implement a function, make_itemsets(words). The input, words, is a list of strings. 
+Your function should convert the characters of each string into an itemset and then return the list of all itemsets. 
+These output itemsets should appear in the same order as their corresponding words in the input.
+'''
+
+def make_itemsets(words):
+    return [set(w) for w in words]
+
+'''
+Exercise 4 (update_pair_counts_test: 2 points).
+Start by implementing a function that enumerates all item-pairs within an itemset and updates,
+in-place, a table that tracks the counts of those item-pairs.
+'''
+
+from collections import defaultdict
+from itertools import combinations # Hint!
+
+def update_pair_counts (pair_counts, itemset):
+    """
+    Updates a dictionary of pair counts for
+    all pairs of items in a given itemset.
+    """
+    assert type (pair_counts) is defaultdict
+    for a, b in combinations(itemset, 2):
+        pair_counts[(a, b)] += 1
+        pair_counts[(b, a)] += 1
+
+'''
+Exercise 5 (update_item_counts_test: 2 points). 
+Implement a procedure that, given an itemset, updates a table to track counts of each item.
+
+As with the previous exercise, you may assume all items in the given itemset (itemset) are distinct, i.e., 
+that you may treat it as you would any set-like collection. You may also assume the table (item_counts) is a default dictionary.
+'''
+
+def update_item_counts(item_counts, itemset):
+    for a in itemset:
+        item_counts[a] += 1
+
+
 '''
 Exercise 6 (filter_rules_by_conf_test: 2 points).
 Given tables of item-pair counts and individual item counts, as well as a confidence threshold,
