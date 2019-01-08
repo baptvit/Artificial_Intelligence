@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f1fb9a2-d951-4831-ad1a-83e95dc48eb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Topic 6 + Notebook 6 (OPTIONAL): Mining the web/Notebook_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Topic 6 + Notebook 6 (OPTIONAL): Mining the web/Notebook_6.py" afterDir="false" />
-    </list>
+    <list default="true" id="9f1fb9a2-d951-4831-ad1a-83e95dc48eb5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +19,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Topic 6 + Notebook 6 (OPTIONAL): Mining the web/Notebook_6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="620">
               <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Topic 7: Tidying data/Notebook_7.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -53,6 +56,7 @@
         <option value="$PROJECT_DIR$/Topic 2: Pairwise association mining/Lesson_1_to_3.py" />
         <option value="$PROJECT_DIR$/Topic 5: Preprocessing unstructured text/Notebook_5.py" />
         <option value="$PROJECT_DIR$/Topic 6 + Notebook 6 (OPTIONAL): Mining the web/Notebook_6.py" />
+        <option value="$PROJECT_DIR$/Topic 7: Tidying data/Notebook_7.py" />
       </list>
     </option>
   </component>
@@ -74,11 +78,6 @@
             <path>
               <item name="FA18 Computing for Data Analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="FA18: Computing for Data Analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FA18 Computing for Data Analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FA18: Computing for Data Analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="Topic 6 + Notebook 6 (OPTIONAL): Mining the web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +149,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="67" width="1260" height="957" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36490938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -207,6 +205,9 @@
           <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topic 7: Tidying data/Notebook_7.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
