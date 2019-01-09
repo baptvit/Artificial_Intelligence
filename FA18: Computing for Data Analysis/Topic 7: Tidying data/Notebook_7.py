@@ -174,4 +174,85 @@ def separate(df, key, into, splitter=default_splitter):
     tibble = df[fixed_vars].copy()
     tibble_extra = df[key].apply(apply_splitter)
     return pd.concat([tibble, tibble_extra], axis=1)
-    
+    	
+ '''
+Exercise 7 (2 points). Implement the inverse of separate, which is unite. This function should take a data frame (df), the set of columns to combine (cols), the name of the new column (new_var), and a function that takes the subset of the cols variables from a single observation. 
+It should return a new value for that observation.
+'''
+
+def str_join_elements(x, sep=""):
+    assert type(sep) is str
+    return sep.join([str(xi) for xi in x])
+
+def unite(df, cols, new_var, combine=str_join_elements):
+    # Hint: http://stackoverflow.com/questions/13331698/how-to-apply-a-function-to-two-columns-of-pandas-dataframe
+    fixed_vars = df.columns.difference(cols)
+    table = df[fixed_vars].copy()
+    table[new_var] = df[cols].apply(combine, axis=1)
+    return table
+
+'''
+Exercise 8 (3 points). As a first step, start with who_raw and create a new data frame, who2, with the following properties:
+
+All the 'new...' columns of who_raw become values of a single variable, case_type. Store the counts associated with each case_type value as a new variable called 'count'.
+Remove the iso2 and iso3 columns, since they are redundant with country (which you should keep!).
+Keep the year column as a variable.
+Remove all not-a-number (NaN) counts. Hint: You can test for a NaN using Python's math.isnan().
+Convert the counts to integers. (Because of the presence of NaNs, the counts will be otherwise be treated as floating-point values, which is undesirable since you do not expect to see non-integer counts.)
+'''
+
+from math import isnan
+
+# Melt value columns into a variable, `case_type`, associated with a new variable `count`:
+col_vals = who_raw.columns.difference(['country', 'iso2', 'iso3', 'year'])
+who2 = melt(who_raw, col_vals, 'case_type', 'count')
+
+# Remove redundant iso2 and iso3 columns
+del who2['iso2']
+del who2['iso3']
+
+# Remove NaNs
+who2 = who2[who2['count'].apply(lambda x: not isnan(x))]
+
+# Convert counts to ints
+who2['count'] = who2['count'].apply(lambda x: int(x))
+
+# Save this solution as "the" solution (master notebook only)
+#who2.to_csv('who2_soln.csv', index=False)
+
+'''
+Exercise 9 (5 points). Starting from your who2 data frame, create a new tibble, who3, for which each 'key' value is split into three new variables:
+
+'type', to hold the TB type, having possible values of rel, ep, sn, and sp;
+'gender', to hold the gender as a string having possible values of female and male; and
+'age_group', to hold the age group as a string having possible values of 0-14, 15-24, 25-34, 35-44, 45-54, 55-64, and 65+.
+'''
+import re
+
+def who_splitter(text):
+    m = re.match("^new_?(rel|ep|sn|sp)_(f|m)(\\d{2,4})$", text)
+    if m is None or len(m.groups()) != 3: # no match?
+        return ['', '', '']
+
+    fields = list(m.groups())
+    if fields[1] == 'f':
+        fields[1] = 'female'
+    elif fields[1] == 'm':
+        fields[1] = 'male'
+
+    if fields[2] == '014':
+        fields[2] = '0-14'
+    elif fields[2] == '65':
+        fields[2] = '65+'
+    elif len(fields[2]) == 4 and fields[2].isdigit():
+        fields[2] = fields[2][0:2] + '-' + fields[2][2:4]
+
+    return fields
+
+who3 = separate(who2,
+                key='case_type',
+                into=['type', 'gender', 'age_group'],
+                splitter=who_splitter)
+
+
+
