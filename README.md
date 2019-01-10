@@ -6,7 +6,7 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 
 
 #### Tools Used
-- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub, 
+- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub, Excel
 
 ### Accelerated Learning Techniques
 - Watch videos at 2x or 3x speed using a browser extension
