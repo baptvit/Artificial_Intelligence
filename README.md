@@ -29,6 +29,8 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
 - Use [Kaggle Learn](https://www.kaggle.com/learn/overview) as a helpful guide
 
+## 14/01/2019 - Summer course in Brasilia's University - Computer vision
+- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0)
 
 # Month 2 - Machine Learning
 
