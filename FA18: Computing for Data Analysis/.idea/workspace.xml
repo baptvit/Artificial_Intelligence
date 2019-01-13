@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f1fb9a2-d951-4831-ad1a-83e95dc48eb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Topic 8: Visualizing data and results/Notebook_8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Topic 8: Visualizing data and results/Notebook_8.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Topic 8: Visualizing data and results/Notebook_8.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,8 +52,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FA18 Computing for Data Analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FA18: Computing for Data Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,7 +130,7 @@
   <component name="ToolWindowManager">
     <frame x="24" y="85" width="1144" height="868" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19763206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20491803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,9 +210,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Topic 8: Visualizing data and results/Notebook_8.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Topic 8: Visualizing data and results/Notebook_8.py" />
     <entry file="file://$PROJECT_DIR$/Topic 8: Visualizing data and results/Notebook_8.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
