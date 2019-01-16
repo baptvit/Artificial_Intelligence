@@ -56,9 +56,10 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 
 # Month 3 - Real-World Tools
 
-## Week 1 Databases (SQL + NoSQL)
+## Week 1 Databases (SQL + NoSQL) :blue_book:
 - Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 :heavy_check_mark:
 - EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2 :blue_book:
+- KhanAcademy https://www.khanacademy.org/computing/computer-programming/sql :blue_book:
 
 ## Week 2 Hadoop & Map Reduce + Spark
 - Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
