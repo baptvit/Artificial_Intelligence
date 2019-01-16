@@ -15,22 +15,22 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 
 # Month 1 - Data Analysis
 
-## Week 1 - Learn Python - [DONE]
-- EdX https://www.edx.org/course/introduction-python-data-science-2
+## Week 1 - Learn Python - :heavy_check_mark:
+- EdX https://www.edx.org/course/introduction-python-data-science-2 
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
 
-## Week 2 - Statistics & Probability - [Currently Refreshing]
-- KhanAcademy https://www.khanacademy.org/math/statistics-probability
+## Week 2 - Statistics & Probability
+- KhanAcademy https://www.khanacademy.org/math/statistics-probability :blue_book:
 
-## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis - [Doing]
-- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
+## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis :blue_book:
+- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis 
 
 ## Week 4 Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
 - Use [Kaggle Learn](https://www.kaggle.com/learn/overview) as a helpful guide
 
-## 14/01/2019 - Summer course in Brasilia's University - Computer vision
-- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0)
+## 14/01/2019 - Summer course in Brasilia's University - Computer vision :blue_book:
+- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0) 
 
 # Month 2 - Machine Learning
 
@@ -52,9 +52,9 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 
 # Month 3 - Real-World Tools
 
-## Week 1 Databases (SQL + NoSQL) 
-- Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197
-- EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2
+## Week 1 Databases (SQL + NoSQL)
+- Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 :heavy_check_mark:
+- EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2 :blue_book:
 
 ## Week 2 Hadoop & Map Reduce + Spark
 - Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
@@ -77,7 +77,9 @@ Examples and experiments around ML for upcoming Coding Train videos and ITP cour
 
 Since resources across the internet vary in terms of their pre-requisites and general accessibility, it is useful to
 give attributes to them so that it is easy to understand where a resource fits into the wider machine learning scope. Below is a few suggested attributes (please extend):
-
+ 
+ - :blue_book: = Doing
+ - :heavy_check_mark: = Completed
  - :rainbow: = creative
  - :bowtie: = beginner
  - :sweat_smile: = intermediate, some pre-requisites
