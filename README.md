@@ -15,6 +15,10 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 
 # Month 1 - Data Analysis
 
+## Week 0 - Learn basics data analysis with Excel - :heavy_check_mark:
+- Edx https://courses.edx.org/courses/course-v1:Microsoft+DAT206x+1T2018a/course/ :heavy_check_mark:
+- EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2018a/course/ :heavy_check_mark:
+
 ## Week 1 - Learn Python - :heavy_check_mark:
 - EdX https://www.edx.org/course/introduction-python-data-science-2 
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
@@ -52,9 +56,10 @@ This is the Curriculum for [Learn Data in 3 Science Months](https://youtu.be/9rD
 
 # Month 3 - Real-World Tools
 
-## Week 1 Databases (SQL + NoSQL)
+## Week 1 Databases (SQL + NoSQL) :blue_book:
 - Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 :heavy_check_mark:
 - EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2 :blue_book:
+- KhanAcademy https://www.khanacademy.org/computing/computer-programming/sql :blue_book:
 
 ## Week 2 Hadoop & Map Reduce + Spark
 - Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
