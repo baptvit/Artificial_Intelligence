@@ -40,6 +40,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 ## Data Pre-processing, Data Visualization, Exploratory Data Analysis :blue_book:
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis 
+- EdX https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2019/course/
 
 ## Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
@@ -70,7 +71,8 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 ## Databases (SQL + NoSQL) :blue_book:
 - Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 :heavy_check_mark:
-- EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2 :blue_book:
+- EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2 :heavy_check_mark:
+- EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT240x+2T2018/course/ :blue_book:
 - KhanAcademy https://www.khanacademy.org/computing/computer-programming/sql :blue_book:
 
 ## Hadoop & Map Reduce + Spark
