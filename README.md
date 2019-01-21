@@ -39,8 +39,8 @@ give attributes to them so that it is easy to understand where a resource fits i
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability :blue_book:
 
 ## Data Pre-processing, Data Visualization, Exploratory Data Analysis :blue_book:
-- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis 
-- EdX https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2019/course/
+- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis :heavy_check_mark:
+- EdX https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2019/course/ :blue_book:
 
 ## Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
