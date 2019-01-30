@@ -27,7 +27,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 # Data Analysis
 
-## Learn basics data analysis with Excel - :heavy_check_mark:
+## Learn basics data analysis with Excel -
 - Edx https://courses.edx.org/courses/course-v1:Microsoft+DAT206x+1T2018a/course/ [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft:%20DAT206x%20-%20Analyzing%20and%20Visualizing%20Data%20with%20Excel):heavy_check_mark:
 - EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2018a/course/ [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft:%20DAT101x%20-%20Introduction%20to%20Data%20Science):heavy_check_mark:
 
@@ -45,8 +45,8 @@ give attributes to them so that it is easy to understand where a resource fits i
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/GTx:%20CSE6040x:%20FA18%20-%20Computing%20for%20Data%20Analysis):heavy_check_mark:
 - EdX https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2019/course/ :blue_book:
 
-## Summer course in Brasilia's University - Computer vision :blue_book:
-- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0) 
+## Summer course in Brasilia's University - Computer vision 
+- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0) :blue_book:
 
 # Machine Learning
 
@@ -72,13 +72,14 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 # Real-World Tools
 
-## Databases (SQL + NoSQL) :blue_book:
-- Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 
+## Databases (SQL + NoSQL) 
+- KhanAcademy https://www.khanacademy.org/computing/computer-programming/sql :blue_book:
+- MongoDB University [M001: MongoDB Basics](https://university.mongodb.com/mercury/M001/2019_January_2/overview) :blue_book:
 - EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT240x+2T2018 :blue_book:
 - EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT221x+1T2019 [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft:%20DAT221x%20-%20Introduction%20to%20NoSQL%20Data%20Solutions) :heavy_check_mark:
 - EVB [Modelagem de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Modelagem%20de%20dados) :heavy_check_mark:
 - EVB [Implementando Banco de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Implementando%20banco%20de%20dados) :heavy_check_mark:
-- KhanAcademy https://www.khanacademy.org/computing/computer-programming/sql :blue_book:
+- Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 
 
 ## Hadoop & Map Reduce + Spark
 - Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
