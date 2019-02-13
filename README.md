@@ -36,7 +36,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU :heavy_check_mark:
 
 ## Learn R - 
-- EdX https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+1T2019a [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/HarvardX:%20PH125.1x%20-%20Data%20Science:%20R%20Basics) :heavy_check_mark:
+- EdX [Harvard University: Professional Certificate in Data Science](https://www.edx.org/professional-certificate/harvardx-data-science) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Harvard%20University:%20Professional%20Certificate%20in%20Data%20Science) :blue_book:
 
 ## Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability :blue_book:
@@ -46,7 +46,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 - EdX https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2019/course/ :blue_book:
 
 ## Summer course in Brasilia's University - Computer vision 
-- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0) :blue_book:
+- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0) [RESULTS](https://github.com/helpthx/Visao_Computacional):heavy_check_mark:
 
 # Machine Learning
 
