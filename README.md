@@ -45,9 +45,6 @@ give attributes to them so that it is easy to understand where a resource fits i
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/GTx:%20CSE6040x:%20FA18%20-%20Computing%20for%20Data%20Analysis):heavy_check_mark:
 - EdX https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2019/course/ :blue_book:
 
-## Summer course in Brasilia's University - Computer vision 
-- Prof. Dr. Glauco Vitor Pedrosa [Syllabus](https://sites.google.com/view/profglauco/vis%C3%A3o-computacional?authuser=0) [RESULTS](https://github.com/helpthx/Visao_Computacional):heavy_check_mark:
-
 # Machine Learning
 
 #### Math of Machine Learning Cheat Sheets
