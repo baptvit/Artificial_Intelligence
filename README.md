@@ -18,7 +18,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 
 #### Tools Used
-- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub, Excel
+- Python, SQL, R, Tensorflow,Spark, Excel
 
 ### Accelerated Learning Techniques
 - Watch videos at 2x or 3x speed using a browser extension
@@ -60,13 +60,6 @@ give attributes to them so that it is easy to understand where a resource fits i
 - Part 1 and 2 of DL Book https://www.deeplearningbook.org/ 
 - Siraj Raval https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3 
 
-## Kaggle Project #1
-- Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
-- Use [Kaggle Learn](https://www.kaggle.com/learn/overview) as a helpful guide
-
-## Kaggle Project #2 
-- Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions). Make sure to add great documentation to your github repository! Github is the new resume. 
-
 # Real-World Tools
 
 ## Databases (SQL + NoSQL) 
@@ -77,22 +70,3 @@ give attributes to them so that it is easy to understand where a resource fits i
 - EVB [Modelagem de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Modelagem%20de%20dados) :heavy_check_mark:
 - EVB [Implementando Banco de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Implementando%20banco%20de%20dados) :heavy_check_mark:
 - Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 
-
-## Hadoop & Map Reduce + Spark
-- Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
-- Spark Workshop https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf 
-
-## Data Storytelling
-- Edx https://www.edx.org/course/analytics-storytelling-impact-1
-
-## Kaggle Project #3
-- Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
-
-### Books and Sources 
-
-* [Python Data Science Handbook](https://github.com/helpthx/PythonDataScienceHandbook)
-
-
-
-
-
