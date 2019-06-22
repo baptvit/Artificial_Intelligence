@@ -1,4 +1,5 @@
 
+
 # Learning Data Science
 
 #### Course base
@@ -29,8 +30,8 @@ give attributes to them so that it is easy to understand where a resource fits i
 # Data Analysis
 
 ## Learn basics data analysis with Excel -
-- Edx https://courses.edx.org/courses/course-v1:Microsoft+DAT206x+1T2018a/course/ [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft:%20DAT206x%20-%20Analyzing%20and%20Visualizing%20Data%20with%20Excel):heavy_check_mark:
-- EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2018a/course/ [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft:%20DAT101x%20-%20Introduction%20to%20Data%20Science):heavy_check_mark:
+-  [Microsoft: DAT206x - Analyzing and Visualizing Data with Excel](https://courses.edx.org/courses/course-v1:Microsoft+DAT206x+1T2018a/course/) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft%20Courses/Microsoft:%20Professional%20Certificate%20in%20Excel%20Fundamentals/Microsoft:%20DAT206x%20-%20Analyzing%20and%20Visualizing%20Data%20with%20Excel) :heavy_check_mark:
+- [Microsoft: DAT101x - Introduction to Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2018a/course/) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft%20Courses/Microsoft:%20DAT101x%20-%20Introduction%20to%20Data%20Science):heavy_check_mark:
 
 ## Learn Python - 
 - EdX https://www.edx.org/course/introduction-python-data-science-2 
