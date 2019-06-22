@@ -1,3 +1,4 @@
+
 # Learning Data Science
 
 #### Course base
@@ -57,8 +58,14 @@ give attributes to them so that it is easy to understand where a resource fits i
 - Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/
 
 ## Deep Learning
-- Part 1 and 2 of DL Book https://www.deeplearningbook.org/ 
-- Siraj Raval https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3 
+- Deep Learning path from cognitive.ia IBM
+	-  [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/) [RESULTS](https://github.com/helpthx/Data_Science/blob/master/Cognitive_Class_IBM/Deep_Learning/DeepLearning.TV%20ML0115EN%20Certificate%20_%20Cognitive%20Class.pdf):heavy_check_mark:
+	- [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/) [RESULTS](https://github.com/helpthx/Data_Science/blob/master/Cognitive_Class_IBM/Deep_Learning/CognitiveClass%20ML0120ENv2%20Certificate%20_%20Cognitive%20Class.pdf):heavy_check_mark:
+	-  [Accelerating Deep Learning with GPU](https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/) [RESULTS](https://github.com/helpthx/Data_Science/blob/master/Cognitive_Class_IBM/Deep_Learning/CognitiveClass%20ML0122ENv1%20Certificate%20_%20Cognitive%20Class.pdf) :heavy_check_mark:
+- [IBM DL0101EN - Deep Learning Fundamentals with Keras](https://www.edx.org/course/deep-learning-fundamentals-with-keras)  [RESULTS](https://github.com/helpthx/Data_Science/blob/master/EdX/IBM%20DL0101EN%20-%20Deep%20Learning%20Fundamentals%20with%20Keras/final_progress.png) :heavy_check_mark:
+-  [IBM DL0110EN - Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch)  :blue_book:
+- [Part 1 and 2 of DL Book](https://www.deeplearningbook.org/) 
+- [Siraj Raval](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 
 # Real-World Tools
 
