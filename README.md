@@ -34,18 +34,18 @@ give attributes to them so that it is easy to understand where a resource fits i
 - [Microsoft: DAT101x - Introduction to Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2018a/course/) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft%20Courses/Microsoft:%20DAT101x%20-%20Introduction%20to%20Data%20Science):heavy_check_mark:
 
 ## Learn Python - 
-- EdX https://www.edx.org/course/introduction-python-data-science-2 
-- Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU :heavy_check_mark:
+- [GTx: CSE6040x - FA18: Computing for Data Analysis](https://courses.edx.org/courses/course-v1:GTx+CSE6040x+2T2019/course/) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/GTx:%20CSE6040x:%20FA18%20-%20Computing%20for%20Data%20Analysis) :heavy_check_mark:
+- [Siraj Raval](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) :heavy_check_mark:
 
 ## Learn R - 
-- EdX [Harvard University: Professional Certificate in Data Science](https://www.edx.org/professional-certificate/harvardx-data-science) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Harvard%20University:%20Professional%20Certificate%20in%20Data%20Science) :blue_book:
+- [Harvard University: Professional Certificate in Data Science](https://www.edx.org/professional-certificate/harvardx-data-science) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Harvard%20University:%20Professional%20Certificate%20in%20Data%20Science) :blue_book:
 
 ## Statistics & Probability
-- KhanAcademy https://www.khanacademy.org/math/statistics-probability :blue_book:
+- [KhanAcademy](https://www.khanacademy.org/math/statistics-probability) :blue_book:
 
 ## Data Pre-processing, Data Visualization, Exploratory Data Analysis
-- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/GTx:%20CSE6040x:%20FA18%20-%20Computing%20for%20Data%20Analysis):heavy_check_mark:
-- EdX https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2019/course/ :blue_book:
+- [GTx: CSE6040x - FA18: Computing for Data Analysis](https://courses.edx.org/courses/course-v1:GTx+CSE6040x+2T2019/course/) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/GTx:%20CSE6040x:%20FA18%20-%20Computing%20for%20Data%20Analysis) :heavy_check_mark:
+
 
 # Machine Learning
 
@@ -77,10 +77,10 @@ give attributes to them so that it is easy to understand where a resource fits i
 # Real-World Tools
 
 ## Databases (SQL + NoSQL) 
-- KhanAcademy https://www.khanacademy.org/computing/computer-programming/sql :blue_book:
-- MongoDB University [M001: MongoDB Basics](https://university.mongodb.com/mercury/M001/2019_January_2/overview) :blue_book:
-- EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT240x+2T2018 :blue_book:
-- EdX https://courses.edx.org/courses/course-v1:Microsoft+DAT221x+1T2019 [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft:%20DAT221x%20-%20Introduction%20to%20NoSQL%20Data%20Solutions) :heavy_check_mark:
-- EVB [Modelagem de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Modelagem%20de%20dados) :heavy_check_mark:
-- EVB [Implementando Banco de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Implementando%20banco%20de%20dados) :heavy_check_mark:
-- Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197 
+- [KhanAcademy](https://www.khanacademy.org/computing/computer-programming/sql) :blue_book:
+- MongoDB University [M001: MongoDB Basics](https://university.mongodb.com/mercury/M001/2019_January_2/overview) [RESULTS](https://github.com/helpthx/MongoDB_University/tree/master/M001:%20MongoDB%20Basics) :heavy_check_mark:
+- [Microsoft:  DAT240x Using Non-Relational Data in SQL Server](https://courses.edx.org/courses/course-v1:Microsoft+DAT240x+2T2018) :blue_book:
+- [Microsoft:  DAT221x Introduction to NoSQL Data Solutions](https://courses.edx.org/courses/course-v1:Microsoft+DAT221x+1T2019) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/EdX/Microsoft:%20DAT221x%20-%20Introduction%20to%20NoSQL%20Data%20Solutions) :heavy_check_mark:
+- [Modelagem de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Modelagem%20de%20dados) :heavy_check_mark:
+- [Implementando Banco de dados](https://www.ev.org.br/Cursos?fbclid=IwAR1ctGjJbtF_q_mI7aMcW7Yee0ym7v7Yo9XP31Dhse4KgfOc89IKpD2Eo10) [RESULTS](https://github.com/helpthx/Data_Science/tree/master/Escola_Virtual_Funda%C3%A7%C3%A3o_Bradesco/Implementando%20banco%20de%20dados) :heavy_check_mark:
+
