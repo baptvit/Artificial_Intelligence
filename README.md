@@ -55,7 +55,12 @@ give attributes to them so that it is easy to understand where a resource fits i
 - [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 ## Algorithms & Machine Learning
-- Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/
+- [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python/)  [RESULTS](https://github.com/helpthx/Data_Science/blob/master/Cognitive_Class_IBM/Applied_Data_Science_with_Python/Cognitive%20Class%20ML0101ENv3%20Certificate%20_%20Cognitive%20Class.pdf) :heavy_check_mark:
+	- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science/) [RESULTS](https://github.com/helpthx/Data_Science/blob/master/Cognitive_Class_IBM/Applied_Data_Science_with_Python/Cognitiveclass%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf) :heavy_check_mark:
+	- [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python/) [RESULTS](https://github.com/helpthx/Data_Science/blob/master/Cognitive_Class_IBM/Applied_Data_Science_with_Python/CognitiveClass%20DA0101EN%20Certificate%20_%20Cognitive%20Class.pdf) :heavy_check_mark:
+	- [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python/) [RESULTS](https://github.com/helpthx/Data_Science/blob/master/Cognitive_Class_IBM/Applied_Data_Science_with_Python/Cognitive%20Class%20DV0101EN%20Certificate%20_%20Cognitive%20Class.pdf) :heavy_check_mark:
+	 
+- [Columbia](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/)
 
 ## Deep Learning
 - Deep Learning path from cognitive.ia IBM
